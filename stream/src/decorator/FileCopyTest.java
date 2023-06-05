@@ -18,7 +18,7 @@ public class FileCopyTest {
 		}	catch(IOException e) {
 			e.printStackTrace();
 		}
-		System.out.println("파일 복사하는데" + millisecond + "millisecond 소요되었습니다." );
+		System.out.println("파일 복사하는데" + millisecond + "milliseconds 소요되었습니다." );
 	}
 	
 }
